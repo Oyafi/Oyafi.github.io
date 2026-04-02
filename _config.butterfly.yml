@@ -56,7 +56,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /https://oyafi-blog.oss-cn-beijing.aliyuncs.com/-ef1a68d68b9a511.jpg
+  img: https://oyafi-blog.oss-cn-beijing.aliyuncs.com/-ef1a68d68b9a511.jpg
   effect: false
 
 # Disable all banner images
