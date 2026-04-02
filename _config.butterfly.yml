@@ -11,17 +11,17 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: https://oyafi-blog.oss-cn-beijing.aliyuncs.com/-ef1a68d68b9a511.jpg
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+  Home: / || fas fa-home
+  List||fas fa-list:
+    Music: /music/ || fas fa-music
+    Movie: /movies/ || fas fa-video
 
 # --------------------------------------
 # Code Blocks Settings
@@ -37,7 +37,7 @@ code_blocks:
 
   # Toolbar
   copy: true
-  language: true
+  language: false
   # true: shrink the code blocks | false: expand the code blocks | none: expand code blocks and hide the button
   shrink: false
   fullpage: false
@@ -46,8 +46,8 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fab fa-github: https://github.com/Oyafi || Github || '#24292e'
+  fas fa-envelope: mailto:1764852521@qq.com || Email || '#4a7dbe'
 
 # --------------------------------------
 # Image Settings
@@ -56,14 +56,14 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
-  effect: false
+  img: /https://oyafi-blog.oss-cn-beijing.aliyuncs.com/-ef1a68d68b9a511.jpg
+  effect: true
 
 # Disable all banner images
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: https://oyafi-blog.oss-cn-beijing.aliyuncs.com/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91ins%E9%A3%8E-%E5%92%96%E5%95%A1%E5%BA%97.png
 
 # The banner image of index page
 index_img:
