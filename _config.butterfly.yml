@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: https://oyafi-blog.oss-cn-beijing.aliyuncs.com/-ef1a68d68b9a511.jpg
+  logo: 
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
@@ -57,7 +57,7 @@ favicon: /img/favicon.png
 
 avatar:
   img: /https://oyafi-blog.oss-cn-beijing.aliyuncs.com/-ef1a68d68b9a511.jpg
-  effect: true
+  effect: false
 
 # Disable all banner images
 disable_top_img: false
@@ -93,7 +93,7 @@ footer_img: false
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
-background:
+background: https://oyafi-blog.oss-cn-beijing.aliyuncs.com/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E4%B8%8B%E9%9B%A8-%E5%A4%A9%E6%B0%94-%E6%88%B7%E5%A4%96.png
 
 cover:
   # Disable the cover or not
